@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>project (copy)</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/Brands.css">
+    <link rel="stylesheet" href="assets/css/button.css">
+    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
+    <link rel="stylesheet" href="assets/css/Highlight-Phone.css">
+    <link rel="stylesheet" href="assets/css/Image-Tab-Gallery-Horizontal.css">
+    <link rel="stylesheet" href="assets/css/Sakae-Curved-Header.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/Team-Boxed.css">
+    <link rel="stylesheet" href="assets/css/Wave-Flow-Animation.css">
+    <link rel="stylesheet" href="assets/css/Waves---DentalTech.css">
+</head>
+
+<body>
+    <div class="container">
+        <nav class="navbar navbar-light navbar-expand-md">
+            <div class="container-fluid"><a class="navbar-brand" href="#"><img src="assets/img/logo.png" width="50px" height="50px"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse text-uppercase" id="navcol-1">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Contact<br></a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Events<br></a></li>
+                        <li class="nav-item"><a class="nav-link active" href="#">Projects<br></a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Blog<br></a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <section>
+        <header class="overlay">
+            <div class="overlay">
+                <h1 style="color: rgb(255,255,255);">Our Projects<br></h1>
+                <h3 style="color: rgb(255,255,255);">We Are Currently Designing A Shampoo Bottle Filling Machine For Vetgrow (Pvt) Ltd. Stay Tuned!<br></h3>
+            </div>
+        </header>
+    </section>
+    <section>
+        <div class="container" style="margin-top: 40px;">
+            <div class="row">
+                <div class="col-md-6">
+                    <p class="text-center" style="font-size: 28px;"><br><br>Explore More Project Categories With SKORPIUZ. Several Projects Have Been Done Completed By Us Under Different Categories. This Is The Page Where You Can Explore Our Projects.<br><br></p>
+                </div>
+                <div class="col-md-6"><img class="img-fluid" src="assets/img/Our-Services-pic-2-507x400.png"></div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container-fluid top-container">
+            <div class="row">
+                <div class="col-12 col-md-6 col-xl-4 offset-xl-2">
+                    <div class="img-container"><img class="rounded" id="expandedImg" style="width:100%" src="assets/img/1.png">
+                        <div id="imgtext"></div>
+                    </div>
+                    <div class="row img-row" style="padding-right: 10px;padding-left: 10px;">
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/2.png" onclick="myFunction(this);" alt="image 1"></div>
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/3.png" onclick="myFunction(this);" alt="image 2"></div>
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/4.png" onclick="myFunction(this);" alt="image 3"></div>
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/5.jpeg" onclick="myFunction(this);" alt="image 4"></div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-xl-4 offset-xl-0">
+                    <h3 style="margin-bottom: 2px;"><strong>IMPLEMENTING NON-DESTRUCTIVE TEST TO DETECT PINHOLES IN DISPOSABLE GLOVES</strong><br></h3>
+                    <h5 style="color: var(--bs-red);">MECHANICAL AND MANUFACTURING<br></h5>
+                    <p style="font-size: 18px;margin-top: 10px;margin-bottom: 0px;">Wayamba University of Sri Lanka were invited to attend a university collaborative projects program at MIDAS Safety at Biyagama.&nbsp;The problem was to build a method to detect pinholes in disposable gloves.&nbsp; It was mandatory to find pinholes in the gloves to increase their product quality. After following various testing procedures. Finally, we came up with a viable engineering solution to detect pinholes in disposable gloves after their manufacturing process. The company was satisfied with our solution method. We were about to begin the project but unfortunately, the company conclude the project due to the pandemic situation. There is a proposal to get further idea regarding our solution<br><br></p>
+                    <div class="text-start"><a class="btn p-2 me-2 mb-2" role="button" href="#" style="border-radius: 23px;border-style: solid;border-color: var(--bs-gray-900);">Read More</a></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container-fluid top-container">
+            <div class="row">
+                <div class="col-12 col-md-6 col-xl-4 offset-xl-2">
+                    <div class="img-container"><img class="rounded" id="expandedImg-1" style="width:100%" src="assets/img/11.png">
+                        <div id="imgtext-1"></div>
+                    </div>
+                    <div class="row img-row" style="padding-right: 10px;padding-left: 10px;">
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/22.png" onclick="myFunction(this);" alt="image 1"></div>
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/33.png" onclick="myFunction(this);" alt="image 2"></div>
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/44.png" onclick="myFunction(this);" alt="image 3"></div>
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/55.png" onclick="myFunction(this);" alt="image 4"></div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-xl-4 offset-xl-0">
+                    <h3 style="margin-bottom: 2px;"><strong>DESIGN AND IMPLEMENTATION OF ELECTRICAL AND CONTROL SYSTEM FOR SHAMPOO FILLING MACHINE&nbsp;[Project in progress]</strong><br></h3>
+                    <h5 style="color: var(--bs-red);">ELECTRICAL AND ELECTRONIC<br></h5>
+                    <p style="font-size: 18px;margin-top: 10px;margin-bottom: 0px;">As a group of undergraduates, we have contracted with Vetgrow PVT Ltd for an industrial automation project. The company agreed to suggest a problem they had and suggested automating the shampoo bottle filling and bottle capping mechanism as the problem.At present, the bottle filling and capping processes at the factory doing by using employees. In this process everything going manual. That process got many man power, much time and less production rate in day. Their requirement is automation shampoo filling machine with higher rate output using one employee. We hope to complete detail design and developing electrical, electronic, and control part (Automating the machine) of the shampoo filling machine.<br></p>
+                    <div class="text-start"><a class="btn p-2 me-2 mb-2" role="button" href="#" style="border-radius: 23px;border-style: solid;border-color: var(--bs-gray-900);">Read More</a></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container-fluid top-container">
+            <div class="row">
+                <div class="col-12 col-md-6 col-xl-4 offset-xl-2">
+                    <div class="img-container"><img class="rounded" id="expandedImg-2" style="width:100%" src="assets/img/111.png">
+                        <div id="imgtext-2"></div>
+                    </div>
+                    <div class="row img-row" style="padding-right: 10px;padding-left: 10px;">
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/222.png" onclick="myFunction(this);" alt="image 1"></div>
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/333.png" onclick="myFunction(this);" alt="image 2"></div>
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/444.png" onclick="myFunction(this);" alt="image 3"></div>
+                        <div class="col column"><img class="img-thumbnail img-fluid" src="assets/img/5555.png" onclick="myFunction(this);" alt="image 4"></div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-xl-4 offset-xl-0">
+                    <h3 style="margin-bottom: 2px;"><strong>DESIGNING A DIGITAL CLOCK</strong><br></h3>
+                    <h5 style="color: var(--bs-red);">ELECTRICAL AND ELECTRONIC<br></h5>
+                    <p style="font-size: 18px;margin-top: 10px;margin-bottom: 0px;">A digital clock is a type of clock that displays the time digitally.&nbsp; The times obtained by analog clocks come from a pendulum or a spring. Today, most of the digital clocks are made using microcontrollers. And also, those are more accurate than analog clocks. The first digital pocket watch was the invention of Austrian engineer Josef Pallweber in 1883 and he used mechanism called “Jump-Hours” to counting the time. However, by today digital clock came with lot of multifunction features. In this project the clock to be designed is something like HH: MM: SS, which represents hours, minutes and seconds respectively. This circuit implemented using Proteus software.<br></p>
+                    <div class="text-start"><a class="btn p-2 me-2 mb-2" role="button" href="#" style="border-radius: 23px;border-style: solid;border-color: var(--bs-gray-900);">Read More</a></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container" style="margin-top: 40px;">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1 class="text-center" style="margin-top: 100px;">We Are Here To Help You Give The Solutions For Your Technological Problems<br></h1>
+                    <div class="text-center"><a class="btn p-2 me-2 mb-2" role="button" href="#" style="border-radius: 23px;border-style: solid;border-color: var(--bs-gray-900);">Contact Us</a></div>
+                </div>
+                <div class="col-md-6"><img class="img-fluid" src="assets/img/CTA-Our-Services.png"></div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <footer class="footer-basic">
+            <div class="social"><a href="#"><i class="icon ion-social-instagram"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a></div>
+            <ul class="list-inline text-uppercase">
+                <li class="list-inline-item"><a href="#">Home</a></li>
+                <li class="list-inline-item"><a href="#">Services</a></li>
+                <li class="list-inline-item"><a href="#">About</a></li>
+                <li class="list-inline-item"><a href="#">Terms</a></li>
+                <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
+            </ul>
+            <p class="copyright">Copyright © 2022 | Powered by SKORPIUZ<br></p>
+        </footer>
+    </section>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/Image-Tab-Gallery-Horizontal.js"></script>
+</body>
+
+</html>
